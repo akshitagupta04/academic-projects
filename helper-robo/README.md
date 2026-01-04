@@ -4,7 +4,7 @@ Arduino-based robot (prototype)
 ## Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Tools](#tools)
+3. [Hardware Components](#hardware-components)
 4. [Future Enhancements](#future-enhancements)
 5. [Repository Structure](#repository-structure)
 6. [Testing Images](#testing-images)
