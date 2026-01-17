@@ -8,8 +8,9 @@ Helper Robo is an Arduino-based robot designed to detect and measure harmful gas
 4. [System Design and Testing](#system-design--testing)
 5. [Future Enhancement](#future-enhancement)
 6. [Repository Structure](#repository-structure)
-7. [Team and Contributions](#team--contributions)
-8. [License](#license)
+7. [Key Contributions](#key-contributions)
+8. [Credits](#credits)
+9. [License](#license)
 
 ---
 
