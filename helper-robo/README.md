@@ -2,15 +2,16 @@
 Helper Robo is an Arduino-based robot designed to detect and measure harmful gases in hazardous environments like underground mines and landfills. It addresses critical safety needs. 
 
 ## Table of Contents
-1. [Project Context](#project-context)
-2. [Functional Description](#functional-description)
-3. [Hardware and Software](#hardware--software)
-4. [System Design and Testing](#system-design--testing)
-5. [Future Enhancement](#future-enhancement)
-6. [Key Contributions](#key-contributions)
-7. [Repository Structure](#repository-structure)
-8. [Credits and Acknowledgement](#credits--acknowledgement)
-9. [License](#license)
+- [Project Context](#project-context)
+  - [Project Declaration](#project-declaration)
+- [Functional Description](#functional-description)
+- [Hardware and Software](#hardware--software)
+- [System Design and Testing](#system-design--testing)
+- [Future Enhancement](#future-enhancement)
+- [Key Contributions](#key-contributions)
+- [Repository Structure](#repository-structure)
+- [Credits and Acknowledgement](#credits--acknowledgement)
+- [License](#license)
 
 ---
 
