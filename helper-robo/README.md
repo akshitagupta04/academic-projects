@@ -44,7 +44,7 @@ Port: Com 3 Serial Port (USB)
 ---
 
 ## System Design and Testing
-Documentation, including schematic captures, testing images and block diagram 
+Documentation, including schematic captures, testing images and block diagram in [System Design and Testing](System%20Design%20and%20Testing/)
 
 --- 
 
