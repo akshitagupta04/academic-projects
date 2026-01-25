@@ -45,7 +45,7 @@ Port: Com 3 Serial Port (USB)
 
 ## System Design and Testing
 Documentation, including schematic captures, testing images and block diagram, can be found in the following directory:
-[System Design and Testing Folder](academic-projects/helper-robo/System Design and Testing)
+[System Design and Testing](academic-projects/helper-robo/System Design and Testing)
 
 --- 
 
