@@ -44,7 +44,7 @@ Port: Com 3 Serial Port (USB)
 ---
 
 ## System Design and Testing
-Documentation, including schematic captures, testing images and block diagram [System Design and Testing](academic-projects/helper-robo/System-Design-and-Testing/)
+Documentation, including schematic captures, testing images and block diagram [System Design and Testing](helper-robo/System Design and Testing)
 
 --- 
 
@@ -80,4 +80,4 @@ I would like to acknowledge to great measure of our Head of Department “Mrs Ri
 ---
 
 ## License
-This project is licensed under the MIT License [License](academic-projects/helper-robo/license.txt) 
+This project is licensed under the MIT License [License](helper-robo/license.txt) 
