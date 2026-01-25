@@ -13,6 +13,7 @@ Helper Robo is an Arduino-based robot prototype designed to detect and measure h
 - [Key Contributions](#key-contributions)
 - [Repository Structure](#repository-structure)
 - [Credits and Acknowledgement](#credits--acknowledgement)
+  - [Team Members](#team-members)
 - [License](#license)
 
 ---
@@ -30,3 +31,54 @@ I have not submitted the matter presented in this report anywhere for the award 
 ---
 
 ## Functional Description 
+
+---
+
+## Hardware and Software 
+### Hardware 
+Board: Arduino UNO R3
+
+### Software 
+Port: Com 3 Serial Port (USB)
+
+---
+
+## System Design and Testing
+Documentation, including schematic captures, testing images and block diagram, can be found in the following directory:
+[System Design and Testing Folder](academic-projects/helper-robo/System Design and Testing)
+
+--- 
+
+## Future Enhancement: 
+While the initial design utilised a Bluetooth module, which limits operational range. This project has inspired potential improvements, such as adapting it into a radar-based drone for broader applications. 
+
+- Detection of chemicals and toxicants in rivers also for reduction of water pollution.
+- Detection of chemicals in human body with Human Area Networking Technology.
+
+---
+
+## Key Contributions 
+- Integrated the Arduino Uno R3 with L293D motor driver IC, DC gear motors, HC-05 Bluetooth module, MQ-7 & MQ-135 gas sensors and HC-SR04 ultrasonic sensor into a single, functional prototype.
+- Programmed gas sensors and ultrasonic sensor with the Arduino Uno R3 to measure and output precise concentration (in ppm) and readings to the Arduino IDE Serial Monitor.
+- Implemented wireless control for the DC gear motors via HC-05 Bluetooth module and smartphone app for controlling direction, movement and speed.
+- Documented the project comprehensively in a final report for academic evaluation.
+
+---
+
+## Repository Structure 
+
+---
+
+## Credits and Acknowledgement 
+I would like to acknowledge to great measure of our Head of Department “Mrs Ritu Vijay”, our Associate Professor “Dr. C.M.S. Negi” and our Dean of Aviation Science “Seema Verma” for giving me this opportunity and technical support, whose valuable guidance keen interest encourage me to complete the project in successful manner. 
+
+### Team Members
+- Akshita Gupta – BTBTE17143
+- Shambhavi Mishra – BTBTE17031
+- Shivanshi Gupta – BTBTE17072
+- Shivani Pathak – BTBTE17082
+
+---
+
+## License
+This project is licensed under the MIT License [License](academic-projects/helper-robo/license.txt) 
