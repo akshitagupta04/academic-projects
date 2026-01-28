@@ -44,14 +44,26 @@ Port: Com 3 Serial Port (USB)
 
 ---
 
+## Current Validation 2026
+To demonstrate the working functionality of this 2020 academic project, I recently tested the original hardware and code: 
+
+- **Video Demonstration:** Bluetooth-controlled chassis movement and sensor data monitor
+- **Sensor Verification:** Gas and ultrasonic sensor outputs
+- **Hardware Functionality:** Complete system operational check
+
+*These 2026 validations confirm the functionality of the original 2020 design and implementation.* 
+
+---
+
 ## System Design and Testing
-Documentation, including schematic captures, testing images and block diagram in [System Design and Testing](/helper-robo/system-design-and-testing/)
+Documentation, including schematic captures, testing images, serial monitor outputs, project videos and block diagram in [System Design and Testing](/helper-robo/system-design-and-testing/)
 
 --- 
 
 ## Future Enhancement: 
 While the initial design utilised a Bluetooth module, which limits operational range. This project has inspired potential improvements, such as adapting it into a radar-based drone for broader applications. 
 
+Other future enhancements can be as: 
 - Detection of chemicals and toxicants in rivers also for reduction of water pollution.
 - Detection of chemicals in human body with Human Area Networking Technology.
 
