@@ -3,17 +3,14 @@ Helper Robo is an Arduino-based robot prototype designed to detect and measure h
 
 ## Table of Contents
 - [Project Context](#project-context)
-  - [Project Declaration](#project-declaration)
 - [Functional Description](#functional-description)
-  - [Scope](#scope)
-  - [User Requirements](#user-requirements)
 - [Hardware and Software](#hardware-and-software)
+- [Current Validation 2026](#current-validation-2026)
 - [System Design and Testing](#system-design-and-testing)
 - [Future Enhancement](#future-enhancement)
 - [Key Contributions](#key-contributions)
 - [Repository Structure](#repository-structure)
 - [Credits and Acknowledgement](#credits-and-acknowledgement)
-  - [Team Members](#team-members)
 - [License](#license)
 
 ---
