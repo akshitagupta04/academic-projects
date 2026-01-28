@@ -28,6 +28,10 @@ I have not submitted the matter presented in this report anywhere for the award 
 ---
 
 ## Functional Description 
+**Scope: Three primary operational modes were designed and partially implemented.** 
+
+### Remote Navigation Control
+
 
 ---
 
@@ -41,7 +45,7 @@ Port: Com 3 Serial Port (USB)
 ---
 
 ## System Design and Testing
-Documentation, including schematic captures, testing images and block diagram in [System Design and Testing](System%20Design%20and%20Testing/)
+Documentation, including schematic captures, testing images and block diagram in [System Design and Testing](/helper-robo/system-design-and-testing/)
 
 --- 
 
