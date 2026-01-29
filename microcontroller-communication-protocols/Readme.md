@@ -5,7 +5,7 @@ An AVR-based RFID security access control system in which only authorised person
 - [Project Context](#project-context)
 - [Functional Description](#functional-description)
 - [Hardware and Software](#hardware-and-software)
-- [System Design and Testing](#system-design-and-testing)
+- [System Design & Testing](#system-design-&-testing)
 - [Future Enhancement](#future-enhancement)
 - [Key Contributions](#key-contributions)
 - [Repository Structure](#repository-structure)
