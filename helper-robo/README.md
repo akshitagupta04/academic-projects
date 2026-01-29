@@ -16,11 +16,11 @@ Helper Robo is an Arduino-based robot prototype designed to detect and measure h
 ---
 
 ## Project Context 
-This group project was designed during the 6th semester of the undergraduate program in the 2019–2020 academic year and has been re-tested using the original hardware components. Due to the COVID-19 pandemic, college laboratories were closed and access to certain hardware components was restricted. Core functionalities such as remote navigation control and environmental monitoring were successfully verified. 
+This group project was designed during the 6th semester of the undergraduate program in the 2019–2020 academic year and has been retested using the original hardware components. Due to the COVID-19 pandemic, college laboratories were closed, and access to certain hardware components was restricted. Core functionalities such as remote navigation control and environmental monitoring were successfully verified.
 
-The live location visualisation module was tested at the code and communication level; however, the absense of a TFT LCD shield limited full visual output validation. The camera sensor module was implemented and tested; while the code compiled and uploaded successfully, image output could not be fully validated during testing. The module is currently under re-testing using the same components. 
+The live location visualisation module was tested at the code and communication level; however, the absence of a TFT LCD shield limited full visual output validation. The camera sensor module was implemented and tested; while the code compiled and uploaded successfully, image output could not be fully validated during testing. The module is currently under re-testing using the same components.
 
-As a result, the project could not be fully assembled, and a single combined program for the complete system could not be implemented. However, 80% of the planned project components were interfaced with Arduino UNO R3, combined into a single program and tested. The final system integration described in the project documentation is based on the intended design and planned assembly of all components. 
+As a result, the project could not be fully assembled, and a single combined program for the complete system could not be implemented. However, 80% of the planned project components were interfaced with Arduino UNO R3, combined into a single program and tested. The final system integration described in the project documentation is based on the intended design and planned assembly of all components.  
 
 ### Project Declaration
 I hereby declare that the work, which is being presented in the Project, entitled “Helper Robo” in partial fulfillment for the award of Degree of “Bachelor of Technology” with Specialization in Electronics and Communication Engineering and submitted to the Department of Electronics, Banasthali Vidyapith, Rajasthan is a record of my own investigations carried under the guidance of “Mr. Hemant Kumar”, Department of Electronics, Banasthali Vidyapith. 
@@ -45,10 +45,18 @@ I have not submitted the matter presented in this report anywhere for the award 
 
 ## Hardware and Software 
 ### Hardware 
-Board: Arduino UNO R3
+- Microcontroller: Arduino UNO R3
+- Sensors: MQ-7 CO gas sensor module, MQ-135 air quality detector module, HC-SR04 ultrasonic sensor module, OV7670 camera sensor module
+- Wireless Module: HC-05 bluetooth module
+- Actuator: DC gear motor
+- Power: Hi-Watt 9V battery (external)
+- Motor Driver IC: L293D (16 pin)
+- Miscellaneous: wheels, breadboard, chassis, jumper wires 
 
 ### Software 
+Software: Arduino IDE 1.8.7, Proteus 7 Professional (for schematic captures) 
 Port: Com 3 Serial Port (USB)
+Library: NewPing (for ultrasonic sensor)
 
 ---
 
