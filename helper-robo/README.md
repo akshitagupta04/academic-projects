@@ -18,7 +18,7 @@ Helper Robo is an Arduino-based robot prototype designed to detect and measure h
 ## Project Context 
 This group project was designed during the 6th semester of the undergraduate program in the 2019–2020 academic year and has been re-tested using the original hardware components. Due to the COVID-19 pandemic, college laboratories were closed and access to certain hardware components was restricted. Core functionalities such as remote navigation control and environmental monitoring were successfully verified. 
 
-The live location visualisation module was re-tested at the code and communication level; however, the absense of a TFT LCD shield limited full visual output validation. The camera sensor module was implemented and tested; while the code compiled and uploaded successfully, image output could not be fully validated during testing. The module is currently under re-testing using the same components. 
+The live location visualisation module was tested at the code and communication level; however, the absense of a TFT LCD shield limited full visual output validation. The camera sensor module was implemented and tested; while the code compiled and uploaded successfully, image output could not be fully validated during testing. The module is currently under re-testing using the same components. 
 
 As a result, the project could not be fully assembled, and a single combined program for the complete system could not be implemented. However, 80% of the planned project components were interfaced with Arduino UNO R3, combined into a single program and tested. The final system integration described in the project documentation is based on the intended design and planned assembly of all components. 
 
