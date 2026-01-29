@@ -55,16 +55,15 @@ Port: Com 3 Serial Port (USB)
 ## Current Validation 2026
 To demonstrate the working functionality of this 2020 academic project, I recently tested the original hardware and code: 
 
-- **Video Demonstration:** Bluetooth-controlled chassis movement and sensor data monitor
 - **Sensor Verification:** Gas and ultrasonic sensor outputs
-- **Hardware Functionality:** Complete system operational check
+- **Hardware Functionality:** Complete system operational check 
 
 *These 2026 validations confirm the functionality of the original 2020 design and implementation.* 
 
 ---
 
 ## System Design and Testing
-Documentation, including schematic captures, testing images, serial monitor outputs, project videos and block diagram in [System Design and Testing](/helper-robo/system-design-and-testing/)
+Documentation, including schematic captures, testing images, serial monitor outputs and block diagram in [System Design and Testing](/helper-robo/system-design-and-testing/)
 
 --- 
 
