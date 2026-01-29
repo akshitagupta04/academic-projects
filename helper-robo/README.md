@@ -63,7 +63,7 @@ To demonstrate the working functionality of this 2020 academic project, I recent
 ---
 
 ## System Design and Testing
-Documentation, including schematic captures, testing images, serial monitor outputs and block diagram in [System Design and Testing](/helper-robo/system-design-and-testing/)
+Documentation, including schematic captures, testing images, serial monitor outputs and block diagram available in [System Design and Testing](/helper-robo/system-design-and-testing/)
 
 --- 
 
