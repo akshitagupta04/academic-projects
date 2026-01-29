@@ -54,9 +54,9 @@ I have not submitted the matter presented in this report anywhere for the award 
 - Miscellaneous: wheels, breadboard, chassis, jumper wires 
 
 ### Software 
-Software: Arduino IDE 1.8.7, Proteus 7 Professional (for schematic captures) 
-Port: Com 3 Serial Port (USB)
-Library: NewPing (for ultrasonic sensor)
+- Software: Arduino IDE 1.8.7, Proteus 7 Professional (for schematic captures)
+- Port: Com 3 Serial Port (USB)
+- Library: NewPing (for ultrasonic sensor)
 
 ---
 
