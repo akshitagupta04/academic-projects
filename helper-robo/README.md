@@ -58,7 +58,7 @@ I have not submitted the matter presented in this report anywhere for the award 
 - Software: Arduino IDE 1.8.7, Proteus 7 Professional (for schematic capture), OV7670 Serial Port Reader (for camera sensor)
 - Port: Com 3 Serial Port (USB)
 - Library: NewPing (for ultrasonic sensor)
-- Application: Arduino Bluetooth Controller (android app play store)
+- Application: Arduino Bluetooth Controller (android app play store for bluetooth control)
 
 ---
 
