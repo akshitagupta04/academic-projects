@@ -16,9 +16,9 @@ Helper Robo is an Arduino-based robot prototype designed to detect and measure h
 ---
 
 ## Project Context 
-This group project was designed during the 6th semester of the undergraduate program in the 2019–2020 academic year and has been retested using the original hardware components. Due to the COVID-19 pandemic, college laboratories were closed, and access to certain hardware components was restricted. Core functionalities such as remote navigation control and environmental monitoring were successfully verified.
+This group project was designed during the 6th semester of the undergraduate program in the 2019–2020 academic year. Due to the COVID-19 pandemic, college laboratories were closed, and access to certain hardware components was restricted. Core functionalities such as remote navigation control and environmental monitoring were successfully verified.
 
-The live location visualisation module was tested at the code and communication level; however, the absence of a TFT LCD shield limited full visual output validation. The camera sensor module was implemented and tested; while the code compiled and uploaded successfully, image output could not be fully validated during testing. The module is currently under re-testing using the same components.
+The live location visualisation module was tested at the code and communication level; however, the absence of a TFT LCD shield limited full visual output validation. The camera sensor module was implemented and tested; while the code compiled and uploaded successfully, image output could not be fully validated during testing. 
 
 As a result, the project could not be fully assembled, and a single combined program for the complete system could not be implemented. However, 80% of the planned project components were interfaced with Arduino UNO R3, combined into a single program and tested. The final system integration described in the project documentation is based on the intended design and planned assembly of all components.  
 
@@ -51,12 +51,14 @@ I have not submitted the matter presented in this report anywhere for the award 
 - Actuator: DC gear motor
 - Power: Hi-Watt 9V battery (external)
 - Motor Driver IC: L293D (16 pin)
-- Miscellaneous: wheels, breadboard, chassis, jumper wires 
+- Resistor: 4.7k ohm, 10k ohm 
+- Miscellaneous: wheels, breadboard (830 points), chassis, jumper wires 
 
 ### Software 
-- Software: Arduino IDE 1.8.7, Proteus 7 Professional (for schematic captures)
+- Software: Arduino IDE 1.8.7, Proteus 7 Professional (for schematic capture), OV7670 Serial Port Reader (for camera sensor)
 - Port: Com 3 Serial Port (USB)
 - Library: NewPing (for ultrasonic sensor)
+- Application: Arduino Bluetooth Controller (android app play store)
 
 ---
 
