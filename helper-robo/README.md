@@ -99,7 +99,7 @@ Other future enhancements can be as:
 helper-robo/
 ├── codes
 │   ├── 80percent_main_combined
-│   │   └── 80percent_main_combined.ino  
+│   │   └── 80percent_main_combined.ino               # 80% integrated code            
 │   ├── experimental
 │   │   └── OV7670_Camera_Sensor
 │   │   │   └── OV7670_Camera_Sensor.ino
