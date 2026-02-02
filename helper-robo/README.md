@@ -95,7 +95,8 @@ Other future enhancements can be as:
 ---
 
 ## Repository Structure 
-```bash
+```markdown
+```text
 helper-robo/
 ├── codes
 │   ├── 80percent_main_combined
