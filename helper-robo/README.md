@@ -95,7 +95,47 @@ Other future enhancements can be as:
 ---
 
 ## Repository Structure 
-
+```
+helper-robo/
+├── codes
+│   ├── 80percent_main_combined
+│   │   └── 80percent_main_combined.ino  
+│   ├── experimental
+│   │   └── OV7670_Camera_Sensor
+│   │   │   └── OV7670_Camera_Sensor.ino
+│   └── individual-components
+│   │   ├── DC_gear_motors_control_L239D_IC
+│   │   │   └── DC_gear_motors_control_L239D_IC.ino
+│   │   ├── HC_05_Bluetooth_Module
+│   │   │   └── HC_05_Bluetooth_Module.ino
+│   │   ├── HC_SR04_Ultrasonic_sensor_distance
+│   │   │   └── HC_SR04_Ultrasonic_sensor_distance.ino
+│   │   ├── mq135_gas_sensor
+│   │   │   └── mq135_gas_sensor.ino
+│   │   └── mq7_gas_sensor
+│   │   │   └── mq7_gas_sensor.ino
+├── report
+│   └── Helper Robo (Project Report).pdf
+├── system-design-and-testing
+│   ├── 2026-testing
+│   │   ├── serial-monitor-outputs
+│   │   │   ├── HC-SR04_ultrasonic_sensor_output_2026.jpg
+│   │   │   ├── MQ-135_gas_sensor_output_2026.jpg
+│   │   │   └── MQ-7_gas_sensor_output_2026.jpg
+│   │   └── testing-images
+│   │   │   ├── 01_mq7_gas_sensor_2026.jpg
+│   │   │   ├── 02_mq135_gas_sensor_2026.jpg
+│   │   │   ├── 03_HCSR04_ultrasonic_sensor_2026.jpg
+│   │   │   ├── 04_L239D_IC_Motors_2026.jpg
+│   │   │   └── 05_circuit testing_2026.jpg
+│   ├── schematic-captures
+│   │   ├── Display of data from sensors_Schematic_02.jpg
+│   │   ├── Live location display_Schematic_03.jpg
+│   │   └── Movement of the robotic chassis_Schematic_01.jpg
+│   └── block-diagram-working.png
+├── README.md
+└── license.txt
+``` 
 ---
 
 ## Credits and Acknowledgement 
