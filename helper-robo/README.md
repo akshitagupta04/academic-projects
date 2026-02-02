@@ -95,7 +95,6 @@ Other future enhancements can be as:
 ---
 
 ## Repository Structure 
-```markdown
 ```text
 helper-robo/
 ├── codes
