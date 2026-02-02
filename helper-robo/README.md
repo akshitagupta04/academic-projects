@@ -120,22 +120,22 @@ helper-robo/
 ├── system-design-and-testing
 │   ├── 2026-testing
 │   │   ├── serial-monitor-outputs
-│   │   │   ├── HC-SR04_ultrasonic_sensor_output_2026.jpg    # 
-│   │   │   ├── MQ-135_gas_sensor_output_2026.jpg
-│   │   │   └── MQ-7_gas_sensor_output_2026.jpg
+│   │   │   ├── HC-SR04_ultrasonic_sensor_output_2026.jpg    # serial monitor output of ultrasonic sensor in Arduino IDE in 2026
+│   │   │   ├── MQ-135_gas_sensor_output_2026.jpg            # serial monitor output of MQ-135 gas sensor in Arduino IDE in 2026
+│   │   │   └── MQ-7_gas_sensor_output_2026.jpg              # serial monitor output of MQ-7 gas sensor in Arduino IDE in 2026
 │   │   └── testing-images
-│   │   │   ├── 01_mq7_gas_sensor_2026.jpg
-│   │   │   ├── 02_mq135_gas_sensor_2026.jpg
-│   │   │   ├── 03_HCSR04_ultrasonic_sensor_2026.jpg
-│   │   │   ├── 04_L239D_IC_Motors_2026.jpg
-│   │   │   └── 05_circuit testing_2026.jpg
-│   ├── schematic-captures
-│   │   ├── Display of data from sensors_Schematic_02.jpg
-│   │   ├── Live location display_Schematic_03.jpg
-│   │   └── Movement of the robotic chassis_Schematic_01.jpg
-│   └── block-diagram-working.png
-├── README.md
-└── license.txt
+│   │   │   ├── 01_mq7_gas_sensor_2026.jpg                 # individual circuit testing of MQ-7 gas sensor interfaced with Arduino UNO R3 in 2026
+│   │   │   ├── 02_mq135_gas_sensor_2026.jpg               # individual circuit testing of MQ-135 gas sensor interfaced with Arduino UNO R3 in 2026
+│   │   │   ├── 03_HCSR04_ultrasonic_sensor_2026.jpg       # individual circuit testing of HC-SR04 ultrasonic sensor interfaced with Arduino UNO R3 in 2026
+│   │   │   ├── 04_L239D_IC_Motors_2026.jpg                # circuit testing of L239D IC and motors interfaced with Arduino UNO R3 in 2026 
+│   │   │   └── 05_circuit testing_2026.jpg                # closed look up of circuit testing of L239D IC in 2026
+│   ├── schematic-captures 
+│   │   ├── Display of data from sensors_Schematic_02.jpg       # Schematic capture of ciruit of environmental monitoring 
+│   │   ├── Live location display_Schematic_03.jpg              # Schematic capture of circuit of live location visualisation as planned in project
+│   │   └── Movement of the robotic chassis_Schematic_01.jpg    # Schematic capture of circuit of bluetooth controlled movement control of robotic chassis
+│   └── block-diagram-working.png                               # block diagram of working of project as planned in project 
+├── README.md                                         # Readme file
+└── license.txt                                       # license file
 ``` 
 ---
 
