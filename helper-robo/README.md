@@ -46,7 +46,7 @@ I have not submitted the matter presented in this report anywhere for the award 
 ## Hardware and Software 
 ### Hardware 
 - Microcontroller: Arduino UNO R3
-- Sensors: MQ-7 CO gas sensor module, MQ-135 air quality detector module, HC-SR04 ultrasonic sensor module, OV7670 camera sensor module
+- Sensors: MQ-7 CO gas sensor module, MQ-135 air quality sensor (detector) module, HC-SR04 ultrasonic sensor module, OV7670 camera sensor module
 - Wireless Module: HC-05 bluetooth module
 - Actuator: DC gear motor
 - Power: Hi-Watt 9V battery (external)
@@ -95,31 +95,32 @@ Other future enhancements can be as:
 ---
 
 ## Repository Structure 
+
 ```text
 helper-robo/
 ├── codes
 │   ├── 80percent_main_combined
-│   │   └── 80percent_main_combined.ino               # 80% integrated code            
+│   │   └── 80percent_main_combined.ino                   # 80% main integrated code            
 │   ├── experimental
 │   │   └── OV7670_Camera_Sensor
-│   │   │   └── OV7670_Camera_Sensor.ino
+│   │   │   └── OV7670_Camera_Sensor.ino                  # OV7670 camera sensor module code
 │   └── individual-components
 │   │   ├── DC_gear_motors_control_L239D_IC
-│   │   │   └── DC_gear_motors_control_L239D_IC.ino
+│   │   │   └── DC_gear_motors_control_L239D_IC.ino       # DC gear motor control through L239D IC code
 │   │   ├── HC_05_Bluetooth_Module
-│   │   │   └── HC_05_Bluetooth_Module.ino
+│   │   │   └── HC_05_Bluetooth_Module.ino                # HC-05 bluetooth module code
 │   │   ├── HC_SR04_Ultrasonic_sensor_distance
-│   │   │   └── HC_SR04_Ultrasonic_sensor_distance.ino
+│   │   │   └── HC_SR04_Ultrasonic_sensor_distance.ino    # HC-SR04 ultrasonic sensor code
 │   │   ├── mq135_gas_sensor
-│   │   │   └── mq135_gas_sensor.ino
+│   │   │   └── mq135_gas_sensor.ino                      # MQ-135 gas sensor code                  
 │   │   └── mq7_gas_sensor
-│   │   │   └── mq7_gas_sensor.ino
+│   │   │   └── mq7_gas_sensor.ino                        # MQ-7 gas sensor code 
 ├── report
-│   └── Helper Robo (Project Report).pdf
+│   └── Helper Robo (Project Report).pdf                  # Project Documentation 
 ├── system-design-and-testing
 │   ├── 2026-testing
 │   │   ├── serial-monitor-outputs
-│   │   │   ├── HC-SR04_ultrasonic_sensor_output_2026.jpg
+│   │   │   ├── HC-SR04_ultrasonic_sensor_output_2026.jpg    # 
 │   │   │   ├── MQ-135_gas_sensor_output_2026.jpg
 │   │   │   └── MQ-7_gas_sensor_output_2026.jpg
 │   │   └── testing-images
