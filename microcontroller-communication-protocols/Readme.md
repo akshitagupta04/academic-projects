@@ -84,3 +84,4 @@ microcontroller-communication-protocols/
 --- 
 
 ## License 
+This project is licensed under the MIT License [license](./license.txt)
