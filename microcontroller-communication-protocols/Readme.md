@@ -62,13 +62,13 @@ microcontroller-communication-protocols/
 │   │   └── GccApplication1.atsuo
 │   ├── GccApplication1.c
 │   └── project.DSN
-├── System Design & Testing
-│   ├── Block Diagram.jpg
-│   └── schematic-capture.jpg
+├── System Design
+│   ├── block_diagram_working.jpg
+│   └── schematic_capture.jpg
 ├── presentation
-│   └── Microcontroller Communication Protocol (Project presentation).pdf
+│   └── Microcontroller_Communication_Protocol_presentation.pdf
 ├── report
-│   └── Microcontroller Communication Protocol (Project Report).pdf
+│   └── Microcontroller_Communication_Protocol_Project_Report.pdf
 ├── Readme.md
 └── license.txt
 ```
