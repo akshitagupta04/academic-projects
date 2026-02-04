@@ -116,7 +116,7 @@ helper-robo/
 │   │   └── mq7_gas_sensor
 │   │   │   └── mq7_gas_sensor.ino                        # MQ-7 gas sensor code 
 ├── report
-│   └── Helper Robo (Project Report).pdf                  # Project Documentation 
+│   └── Helper_Robo_Project_Report.pdf                  # Project Documentation 
 ├── system-design-and-testing
 │   ├── 2026-testing
 │   │   ├── serial-monitor-outputs
@@ -130,9 +130,9 @@ helper-robo/
 │   │   │   ├── 04_L239D_IC_Motors_2026.jpg                # circuit testing of L239D IC and motors interfaced with Arduino UNO R3 in 2026 
 │   │   │   └── 05_circuit testing_2026.jpg                # closed look up of circuit testing of L239D IC in 2026
 │   ├── schematic-captures 
-│   │   ├── Display of data from sensors_Schematic_02.jpg       # Schematic capture of ciruit of environmental monitoring 
-│   │   ├── Live location display_Schematic_03.jpg              # Schematic capture of circuit of live location visualisation as planned in project
-│   │   └── Movement of the robotic chassis_Schematic_01.jpg    # Schematic capture of circuit of bluetooth controlled movement control of robotic chassis
+│   │   ├── Display_of_data_from_sensors_Schematic_02.jpg       # Schematic capture of ciruit of environmental monitoring 
+│   │   ├── Live_location_display_Schematic_03.jpg              # Schematic capture of circuit of live location visualisation as planned in project
+│   │   └── Movement_of the_robotic_chassis_Schematic_01.jpg    # Schematic capture of circuit of bluetooth controlled movement control of robotic chassis
 │   └── block-diagram-working.png                               # block diagram of working of project as planned in project 
 ├── README.md                                         # Readme file
 └── license.txt                                       # license file
