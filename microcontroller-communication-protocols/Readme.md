@@ -5,7 +5,7 @@ An AVR-based RFID security access control system in which only authorised person
 - [Project Context](#project-context)
 - [Functional Description](#functional-description)
 - [Hardware and Software](#hardware-and-software)
-- [System Design & Testing](#system-design-&-testing)
+- [System Design](#system-design)
 - [Future Enhancement](#future-enhancement)
 - [Key Contributions](#key-contributions)
 - [Repository Structure](#repository-structure)
@@ -27,7 +27,8 @@ This project was completed via online training during Covid-19, with functionali
 
 --- 
 
-## System Design & Testing 
+## System Design 
+Documentation, including schematic capture and block diagram available in [System Design](System%20Design)
 
 --- 
 
@@ -36,6 +37,10 @@ This project was completed via online training during Covid-19, with functionali
 --- 
 
 ## Key Contributions 
+- Designed the circuit schematic in Proteus design suite software. 
+- Programmed the ATmega16 microcontroller in AVR programming, utilising the UART communication protocol for system operation under trainer guidance. 
+- Simulated the full system by performing co-simulation between schematic and AVR programming, loading the generated hex file to validate functionality. 
+- Documented the project comprehensively in a final report and created the presentation for academic evaluation.
 
 --- 
 
