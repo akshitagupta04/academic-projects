@@ -51,11 +51,11 @@ microcontroller-communication-protocols/
 ├── Project Code
 │   ├── GccApplication1
 │   │   ├── GccApplication1
-│   │   │   ├── Debug
+│   │   │   ├── Debug                         # Debugging and other files
 │   │   │   │   ├── GccApplication1.d
 │   │   │   │   ├── GccApplication1.eep
 │   │   │   │   ├── GccApplication1.elf
-│   │   │   │   ├── GccApplication1.hex
+│   │   │   │   ├── GccApplication1.hex       # Co-simulation hex file generated from Atmel AVR Studio 6 to ISIS Proteus 7 Professional software
 │   │   │   │   ├── GccApplication1.lss
 │   │   │   │   ├── GccApplication1.map
 │   │   │   │   ├── GccApplication1.o
@@ -65,17 +65,17 @@ microcontroller-communication-protocols/
 │   │   │   └── GccApplication1.cproj
 │   │   ├── GccApplication1.atsln
 │   │   └── GccApplication1.atsuo
-│   ├── GccApplication1.c
-│   └── project.DSN
+│   ├── GccApplication1.c                   # Project code file 
+│   └── project.DSN                         # schematic capture file of project created in the ISIS Proteus 7 Professional software in co-simulation 
 ├── System Design
-│   ├── block_diagram_working.jpg
-│   └── schematic_capture.jpg
+│   ├── block_diagram_working.jpg           # block diagram of working of the project
+│   └── schematic_capture.jpg               # schematic capture of the project
 ├── presentation
-│   └── Microcontroller_Communication_Protocol_presentation.pdf
+│   └── Microcontroller_Communication_Protocol_presentation.pdf         # academic project presentation
 ├── report
-│   └── Microcontroller_Communication_Protocol_Project_Report.pdf
-├── Readme.md
-└── license.txt
+│   └── Microcontroller_Communication_Protocol_Project_Report.pdf       # academic project documentation
+├── Readme.md                                                           # Readme file
+└── license.txt                                                         # license file 
 ```
 --- 
 
