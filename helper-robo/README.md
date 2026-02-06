@@ -1,5 +1,7 @@
 # Helper Robo 
+<p align="justify">
 Helper Robo is an Arduino-based robot prototype designed to detect and measure harmful gases in hazardous environments like underground mines and landfills. It addresses critical safety needs. 
+</p>
 
 ## Table of Contents
 - [Project Context](#project-context)
@@ -16,14 +18,22 @@ Helper Robo is an Arduino-based robot prototype designed to detect and measure h
 ---
 
 ## Project Context 
+<p align="justify">
 This group project was designed during the 6th semester of the undergraduate program in the 2019–2020 academic year. Due to the COVID-19 pandemic, college laboratories were closed, and access to certain hardware components was restricted. Core functionalities such as remote navigation control and environmental monitoring were successfully verified.
+</p>
 
+<p align="justify">
 The live location visualisation module was tested at the code and communication level; however, the absence of a TFT LCD shield limited full visual output validation. The camera sensor module was implemented and tested; while the code compiled and uploaded successfully, image output could not be fully validated during testing. 
+</p>
 
-As a result, the project could not be fully assembled, and a single combined program for the complete system could not be implemented. However, 80% of the planned project components were interfaced with Arduino UNO R3, combined into a single program and tested. The final system integration described in the project documentation is based on the intended design and planned assembly of all components.  
+<p align="justify">
+As a result, the project could not be fully assembled, and a single combined program for the complete system could not be implemented. However, 80% of the planned project components were interfaced with Arduino UNO R3, combined into a single program and tested. The final system integration described in the project documentation is based on the intended design and planned assembly of all components. 
+</p>
 
 ### Project Declaration
-I hereby declare that the work, which is being presented in the Project, entitled “Helper Robo” in partial fulfillment for the award of Degree of “Bachelor of Technology” with Specialization in Electronics and Communication Engineering and submitted to the Department of Electronics, Banasthali Vidyapith, Rajasthan is a record of my own investigations carried under the guidance of “Mr. Hemant Kumar”, Department of Electronics, Banasthali Vidyapith. 
+<p align="justify">
+I hereby declare that the work, which is being presented in the Project, entitled “Helper Robo” in partial fulfillment for the award of Degree of “Bachelor of Technology” with Specialization in Electronics and Communication Engineering and submitted to the Department of Electronics, Banasthali Vidyapith, Rajasthan is a record of my own investigations carried under the guidance of “Mr. Hemant Kumar”, Department of Electronics, Banasthali Vidyapith.
+</p>
 
 I have not submitted the matter presented in this report anywhere for the award of any other Degree.
 
@@ -87,10 +97,12 @@ Other future enhancements can be as:
 ---
 
 ## Key Contributions 
+<p align="justify">
 - Integrated the Arduino Uno R3 with L293D motor driver IC, DC gear motors, HC-05 Bluetooth module, MQ-7 & MQ-135 gas sensors and HC-SR04 ultrasonic sensor into a single, functional prototype.
 - Programmed gas sensors and ultrasonic sensor with the Arduino Uno R3 to measure and output precise concentration (in ppm) and readings to the Arduino IDE Serial Monitor.
 - Implemented wireless control for the DC gear motors via HC-05 Bluetooth module and smartphone app for controlling direction, movement and speed.
 - Documented the project comprehensively in a final report for academic evaluation.
+</p>
 
 ---
 
@@ -140,7 +152,9 @@ helper-robo/
 ---
 
 ## Credits and Acknowledgement 
+<p align="justify">
 I would like to acknowledge to great measure of our Head of Department “Mrs Ritu Vijay”, our Associate Professor “Dr. C.M.S. Negi” and our Dean of Aviation Science “Seema Verma” for giving me this opportunity and technical support, whose valuable guidance keen interest encourage me to complete the project in successful manner. 
+</p>
 
 ### Team Members
 - Akshita Gupta – BTBTE17143
