@@ -15,7 +15,7 @@ An AVR-based RFID security access control system in which only authorised person
 --- 
 
 ## Project Context 
-This project was completed via online training during Covid-19, with functionality verified through trainer-led Proteus and AVR co-simulation demonstrations. 
+This project was developed during the 8th semester of the undergraduate program in the 2020–2021 academic year. Due to the COVID-19 pandemic, this project was implemented entirely in the software-based environment as part of the six-month online training program in Embedded System Design. The functionality was verified through trainer-led Proteus and AVR co-simulation demonstrations. 
 
 --- 
 
@@ -39,6 +39,7 @@ This project was completed via online training during Covid-19, with functionali
 ### Software
 - Software: Atmel Studio V6.0.1843 AVR, ISIS Proteus 7 Professional (for schematic capture)
 - USB drivers (for Atmel Studio installation): Jungo USB driver, Segger USB driver
+
 --- 
 
 ## System Design 
