@@ -1,5 +1,7 @@
 # Microcontroller Communication Protocols 
+<p align="justify">
 An AVR-based RFID security access control system in which only authorised personnel are allowed access to a secure area, developed during embedded system design training. Using this system, authorization of personnel is carried out with an RFID card and only those with access can enter a secured area.
+</p>
 
 ## Table of Contents
 - [Project Context](#project-context)
@@ -15,7 +17,9 @@ An AVR-based RFID security access control system in which only authorised person
 --- 
 
 ## Project Context 
+<p align="justify">
 This project was developed during the 8th semester of the undergraduate program in the 2020–2021 academic year. Due to the COVID-19 pandemic, this project was implemented entirely in the software-based environment as part of the six-month online training program in Embedded System Design. The functionality was verified through trainer-led Proteus and AVR co-simulation demonstrations. 
+</p>
 
 --- 
 
@@ -24,7 +28,7 @@ This project was developed during the 8th semester of the undergraduate program 
 --- 
 
 ## Hardware and Software 
-*Note: Do not connect hardware until USB setup from the Atmel Studio is complete.*
+*Note: Do not connect hardware until the USB setup from the Atmel Studio is complete.*
 
 ### Simulated Hardware (Proteus Co-simulation) 
 - Microcontroller: ATmega16 AVR
