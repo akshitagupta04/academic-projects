@@ -32,7 +32,10 @@ This project was completed via online training during Covid-19, with functionali
 - Display: LM016L 16×2 LCD
 - Actuator: DC gear motor
 - Resistor: 10kΩ
-- Switch: Push-button 
+- Switch: Push-button
+
+### Software
+- Software: Atmel Studio V6.0.1843 AVR, ISIS Proteus 7 Professional (for schematic capture)
 
 --- 
 
