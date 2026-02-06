@@ -52,9 +52,9 @@ I have not submitted the matter presented in this report anywhere for the award 
 ---
 
 ## Hardware and Software 
+*Note: Do not connect the Arduino UNO R3 via USB 2.0 cable to the PC until the hardware circuit setup is complete.*
 ### Hardware 
-- Microcontroller: Arduino UNO R3
-- Sensors: MQ-7 CO gas sensor module, MQ-135 air quality sensor (detector) module, HC-SR04 ultrasonic sensor module, OV7670 camera sensor module
+- Microcontroller: Arduino UNO R3- Sensors: MQ-7 CO gas sensor module, MQ-135 air quality sensor (detector) module, HC-SR04 ultrasonic sensor module, OV7670 camera sensor module
 - Wireless Module: HC-05 bluetooth module
 - Actuator: DC gear motor
 - Power: Hi-Watt 9V battery (external)
@@ -95,12 +95,10 @@ Other future enhancements can be as:
 ---
 
 ## Key Contributions 
-<p align="justify">
 - Integrated the Arduino Uno R3 with L293D motor driver IC, DC gear motors, HC-05 Bluetooth module, MQ-7 & MQ-135 gas sensors and HC-SR04 ultrasonic sensor into a single, functional prototype.
 - Programmed gas sensors and ultrasonic sensor with the Arduino Uno R3 to measure and output precise concentration (in ppm) and readings to the Arduino IDE Serial Monitor.
 - Implemented wireless control for the DC gear motors via HC-05 Bluetooth module and smartphone app for controlling direction, movement and speed.
 - Documented the project comprehensively in a final report for academic evaluation.
-</p>
 
 ---
 
