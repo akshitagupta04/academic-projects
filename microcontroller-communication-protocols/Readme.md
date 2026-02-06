@@ -24,6 +24,14 @@ This project was completed via online training during Covid-19, with functionali
 --- 
 
 ## Hardware and Software 
+### Simulated Hardware (Proteus Co-simulation) 
+- Microcontroller: ATmega16 AVR
+- Module: EM-18 RFID reader module
+- Transponder: Passive-type RFID tag (125 kHz)
+- Integrated Circuit: L239D (16 pin)
+- Display: LM016L 16×2 LCD
+- Actuator: DC gear motor
+- Resistor: 10kΩ
 
 --- 
 
