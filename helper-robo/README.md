@@ -51,7 +51,7 @@ I have not submitted the matter presented in this report anywhere for the award 
 - Actuator: DC gear motor
 - Power: Hi-Watt 9V battery (external)
 - Motor Driver IC: L293D (16 pin)
-- Resistor: 4.7k ohm, 10k ohm 
+- Resistor: 4.7kΩ, 10kΩ  
 - Miscellaneous: wheels, breadboard (830 points), chassis, jumper wires 
 
 ### Software 
