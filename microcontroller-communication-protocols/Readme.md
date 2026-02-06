@@ -32,6 +32,7 @@ This project was completed via online training during Covid-19, with functionali
 - Display: LM016L 16×2 LCD
 - Actuator: DC gear motor
 - Resistor: 10kΩ
+- Switch: Push-button 
 
 --- 
 
