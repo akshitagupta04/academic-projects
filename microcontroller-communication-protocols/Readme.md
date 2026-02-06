@@ -95,11 +95,13 @@ microcontroller-communication-protocols/
 --- 
 
 ## Credits and Acknowledgement 
-<div align="justify">
+<p align="justify">
 I would like to acknowledge to people who have extended their kind co-operation and guidance and made this project successful. First I would like to thank “Mr. Vikas Kalra, Director, Cetpa Infotech Pvt. Ltd.” for giving me the opportunity to do an internship within the organization. I also would like to thank all the people that worked along with me at “Cetpa” with their patience and openness they created an enjoyable working environment. 
+</p>
 
+<p align="justify">
 I am highly indebted to “Mr. Mohd. Shariq, Embedded Engineer, Cetpa,” for the facilities provided to accomplish this internship. I would like to thank “Prof. Mrs Ritu Vijay, Dean and Project & Placement Coordinator, Banasthali Vidyapith,” for her constructive criticism throughout my internship and for their support to complete internship in above said organization. 
-</div>
+</p>
 
 --- 
 
