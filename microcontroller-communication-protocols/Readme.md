@@ -24,6 +24,8 @@ This project was completed via online training during Covid-19, with functionali
 --- 
 
 ## Hardware and Software 
+*Note: Do not connect hardware until USB setup from the Atmel Studio is complete.*
+
 ### Simulated Hardware (Proteus Co-simulation) 
 - Microcontroller: ATmega16 AVR
 - Module: EM-18 RFID reader module
@@ -37,8 +39,6 @@ This project was completed via online training during Covid-19, with functionali
 ### Software
 - Software: Atmel Studio V6.0.1843 AVR, ISIS Proteus 7 Professional (for schematic capture)
 - USB drivers (for Atmel Studio installation): Jungo USB driver, Segger USB driver
-
-*Note: Do not connect hardware until USB setup from the Atmel Studio is complete.*
 --- 
 
 ## System Design 
