@@ -18,7 +18,7 @@ An AVR-based RFID security access control system in which only authorised person
 
 ## Project Context 
 <p align="justify">
-This project was developed during the 8th semester of the undergraduate program in the 2020–2021 academic year. Due to the COVID-19 pandemic, this project was implemented entirely in the software-based environment as part of the six-month online training program in Embedded System Design. The functionality was verified through trainer-led Proteus and AVR co-simulation demonstrations. 
+This project was developed during the 8th semester of the undergraduate program in the 2020–2021 academic year. Due to the COVID-19 pandemic, this project was implemented entirely in the software-based environment as part of the six-month online training program in Embedded System Design. The functionality of this project was verified through Proteus and AVR co-simulation demonstrations conducted by trainer during training, complete schematic and protocol documentation, and block diagram system validation. 
 </p>
 
 --- 
@@ -30,7 +30,7 @@ This project was developed during the 8th semester of the undergraduate program 
 ## Hardware and Software 
 *Note: Do not connect hardware until the USB setup from the Atmel Studio is complete.*
 
-### Simulated Hardware (Proteus Co-simulation) 
+### Simulated Hardware (AVR–Proteus Co-simulation) 
 - Microcontroller: ATmega16 AVR
 - Module: EM-18 RFID reader module
 - Transponder: Passive-type RFID tag (125 kHz)
@@ -49,6 +49,8 @@ This project was developed during the 8th semester of the undergraduate program 
 ## System Design 
 Documentation, including schematic capture and block diagram available in [System Design](System%20Design)
 
+*Schematic Note: Component labels may blur on zoom due to academic export limitations. Circuit functionality remains verifiable.*
+
 --- 
 
 ## Future Enhancement 
@@ -58,7 +60,6 @@ Documentation, including schematic capture and block diagram available in [Syste
 ## Key Contributions 
 - Designed the circuit schematic in Proteus design suite software. 
 - Programmed the ATmega16 microcontroller in AVR programming, utilising the UART communication protocol for system operation under trainer guidance. 
-- Simulated the full system by performing co-simulation between schematic and AVR programming, loading the generated hex file to validate functionality. 
 - Documented the project comprehensively in a final report and created the presentation for academic evaluation.
 
 --- 
