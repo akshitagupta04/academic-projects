@@ -41,9 +41,11 @@ I have not submitted the matter presented in this report anywhere for the award 
 **Scope: Three primary operational modes were designed and partially implemented.** 
 
 ### Remote Navigation Control
-- Device navigation operates through commands via smartphone Bluetooth application
-- Two-wheel primary drive system 
-- Speed, movement and direction controlling capability 
+- The device is controlled wirelessly through a smartphone using Bluetooth.
+- You can control the spinning and rotational direction of the wheels.
+- You can control the speed of the device.
+- You can make the device move forward and backward.
+- An onboard LED indicates if the device is connected and ready to operate.
 
 ### Environmental Monitoring 
 - 
