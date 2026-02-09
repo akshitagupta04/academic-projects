@@ -41,12 +41,12 @@ I have not submitted the matter presented in this report anywhere for the award 
 **Scope: Three primary operational modes were designed and partially implemented.** 
 
 ### Remote Navigation Control
-- Smartphone Bluetooth connection with arrow button interface for device movement commands
-- Two-wheel primary drive system (chassis constraints)
-- Speed, movement and direction adjustment capability 
+- Device navigation operates through commands via smartphone Bluetooth application
+- Two-wheel primary drive system 
+- Speed, movement and direction controlling capability 
 
 ### Environmental Monitoring 
-
+- 
 
 ### Live Location Visualisation
 
