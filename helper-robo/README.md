@@ -41,15 +41,16 @@ I have not submitted the matter presented in this report anywhere for the award 
 **Scope: Three primary operational modes were designed and partially implemented.** 
 
 ### Remote Navigation Control
-- The device is controlled wirelessly through a smartphone using Bluetooth.
-- You can control the spinning and rotational direction of the wheels.
-- You can control the speed of the device.
-- You can make the device move forward and backward.
+- Controls navigation of the device remotely using Bluetooth via a custom bluetooth controlled android application.   
+- Controls movement and direction of the device forward and backward remotely.
+- Regulates speed of the device remotely. 
 - An onboard LED indicates if the device is connected and ready to operate.
 
 ### Environmental Monitoring 
-- You can detect and measure carbon monoxide gas concentration (in ppm).
-- You can detect general air quality
+- Monitors carbon monoxide gas concentration in parts per million (ppm).
+- Monitors air quality concentration in parts per million (ppm).
+- Measures distance between the device and physcial obstructions within device trajectory. 
+- Outputs a continuous stream of environmental and navigational data for real-time observation. 
 
 ### Live Location Visualisation
 
@@ -71,7 +72,7 @@ I have not submitted the matter presented in this report anywhere for the award 
 - Software: Arduino IDE 1.8.7, Proteus 7 Professional (for schematic capture), OV7670 Serial Port Reader (for camera sensor)
 - Port: Com 3 Serial Port (USB)
 - Library: NewPing (for ultrasonic sensor)
-- Application: Arduino Bluetooth Controller (Bluetooth controlled android app installed via play store)
+- Application: Arduino Bluetooth Controller (Bluetooth controlled android application installed via play store)
 
 ---
 
