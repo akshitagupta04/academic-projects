@@ -50,7 +50,7 @@ I have not submitted the matter presented in this report anywhere for the award 
 - Monitors carbon monoxide gas concentration in parts per million (ppm).
 - Monitors air quality concentration in parts per million (ppm).
 - Measures distance between the device and physcial obstructions within device trajectory. 
-- Outputs a continuous stream of environmental and navigational data for real-time observation. 
+- Streams environmental and navigational data continuously for real-time observation. 
 
 ### Live Location Visualisation
 
