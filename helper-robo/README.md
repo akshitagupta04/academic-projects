@@ -41,9 +41,9 @@ I have not submitted the matter presented in this report anywhere for the award 
 **Scope: Three primary operational modes were designed and partially implemented.** 
 
 ### Remote Navigation Control
-- Smartphone Bluetooth connection with button interface for movement and direction commands
+- Smartphone Bluetooth connection with button interface for speed, movement and direction commands
 - Two-wheel primary drive system (chassis constraints)
-- Speed adjustment capability
+- Speed, movement and direction adjustment capability
 
 ### Environmental Monitoring 
 
@@ -66,7 +66,7 @@ I have not submitted the matter presented in this report anywhere for the award 
 - Software: Arduino IDE 1.8.7, Proteus 7 Professional (for schematic capture), OV7670 Serial Port Reader (for camera sensor)
 - Port: Com 3 Serial Port (USB)
 - Library: NewPing (for ultrasonic sensor)
-- Application: Arduino Bluetooth Controller (android app play store for bluetooth control)
+- Application: Arduino Bluetooth Controller (Bluetooth controlled android app installed via play store)
 
 ---
 
