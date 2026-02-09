@@ -48,7 +48,8 @@ I have not submitted the matter presented in this report anywhere for the award 
 - An onboard LED indicates if the device is connected and ready to operate.
 
 ### Environmental Monitoring 
-- 
+- You can detect and measure carbon monoxide gas concentration (in ppm).
+- You can detect general air quality
 
 ### Live Location Visualisation
 
@@ -57,7 +58,8 @@ I have not submitted the matter presented in this report anywhere for the award 
 ## Hardware and Software 
 *Note: Do not connect the Arduino UNO R3 via USB 2.0 cable to the PC until the hardware circuit setup is complete.*
 ### Hardware 
-- Microcontroller: Arduino UNO R3- Sensors: MQ-7 CO gas sensor module, MQ-135 air quality sensor (detector) module, HC-SR04 ultrasonic sensor module, OV7670 camera sensor module
+- Microcontroller: Arduino UNO R3
+- Sensors: MQ-7 CO gas sensor module, MQ-135 air quality sensor (detector) module, HC-SR04 ultrasonic sensor module, OV7670 camera sensor module
 - Wireless Module: HC-05 bluetooth module
 - Actuator: DC gear motor
 - Power: Hi-Watt 9V battery (external)
