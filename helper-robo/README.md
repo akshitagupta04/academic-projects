@@ -49,7 +49,7 @@ I have not submitted the matter presented in this report anywhere for the award 
 ### Environmental Monitoring 
 - Monitors carbon monoxide gas concentration in parts per million (ppm).
 - Monitors air quality concentration in parts per million (ppm).
-- Measures distance between the device and physcial obstructions within device trajectory. 
+- Measures the distance between the device and physical obstructions within device's trajectory. 
 - Displays real-time environmental and navigational data continuously on Arduino Serial Monitor IDE.  
 
 ### Live Location Visualisation
