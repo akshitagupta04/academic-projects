@@ -95,11 +95,13 @@ Documentation, including schematic captures, testing images, serial monitor outp
 --- 
 
 ## Future Enhancement: 
-While the initial design utilised a Bluetooth module, which limits operational range. This project has inspired potential improvements, such as adapting it into a radar-based drone for broader applications. 
+<p align="justify">
+While the initial design utilised a Bluetooth module, which limits the operational range. The project opens up possibilities for future improvements, such as adapting the system into a radar-based drone for wider-area monitoring and enhanced applications. 
+</p>
 
-Other future enhancements can be as: 
-- Detection of chemicals and toxicants in rivers also for reduction of water pollution.
-- Detection of chemicals in human body with Human Area Networking Technology.
+Other future enhancements include: 
+- Extend the system to detect chemicals and toxicants in rivers to help reduce water pollution.
+- Enable detection of chemicals in the human body using Human Area Networking (HAN) technology.
 
 ---
 
