@@ -41,18 +41,21 @@ I have not submitted the matter presented in this report anywhere for the award 
 **Scope: Three primary operational modes were designed and partially implemented.** 
 
 ### Remote Navigation Control
-- Controls navigation of the device remotely using Bluetooth via a custom bluetooth controlled android application.   
-- Controls movement and direction of the device forward and backward remotely.
-- Regulates speed of the device remotely. 
+- Controls navigation of the device remotely using Bluetooth via a custom Bluetooth-controlled Android application.   
+- Controls the movement and direction of the device forward and backward remotely.
+- Regulates the speed of the device remotely. 
 - An onboard LED indicates if the device is connected and ready to operate.
 
 ### Environmental Monitoring 
 - Monitors carbon monoxide gas concentration in parts per million (ppm).
 - Monitors air quality concentration in parts per million (ppm).
 - Measures distance between the device and physcial obstructions within device trajectory. 
-- Streams environmental and navigational data continuously for real-time observation. 
+- Displays real-time environmental and navigational data continuously on Arduino Serial Monitor IDE.  
 
 ### Live Location Visualisation
+- Displays real-time location images of the device surroundings to control speed and movement if any obstruction is detected.
+- Enables the device to detect toxicants in low-light areas or underground mines. 
+- Displays real-time location on a 2.4” TFT LCD of the areas where harmful gases have been detected. 
 
 ---
 
