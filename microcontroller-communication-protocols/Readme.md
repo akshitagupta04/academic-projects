@@ -42,7 +42,7 @@ This project was developed during the 8th semester of the undergraduate program 
 
 ### Software
 - Software: Atmel Studio V6.0.1843 AVR, ISIS Proteus 7 Professional (for schematic capture)
-- USB drivers (for Atmel Studio installation): Jungo USB driver, Segger USB driver
+- Prerequisites installation (for Atmel Studio): Jungo USB driver, .Net Framework 4.0, Microsoft Visual Studio Isolated Shell (2010)
 
 --- 
 
