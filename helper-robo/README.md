@@ -47,15 +47,15 @@ I have not submitted the matter presented in this report anywhere for the award 
 - An onboard LED indicates if the device is connected and ready to operate.
 
 ### Environmental Monitoring 
-- Monitors carbon monoxide gas concentration in parts per million (ppm).
-- Monitors air quality concentration in parts per million (ppm).
+- Monitors the carbon monoxide gas concentration in parts per million (ppm).
+- Monitors the air quality concentration in parts per million (ppm).
 - Measures the distance between the device and physical obstructions within device's trajectory. 
-- Displays real-time environmental and navigational data continuously on Arduino Serial Monitor IDE.  
+- Displays the real-time environmental and navigational data continuously for monitoring purposes. 
 
 ### Live Location Visualisation
-- Displays real-time location images of the device surroundings to control speed and movement if any obstruction is detected.
+- Displays the real-time location images of the device surroundings to control speed and movement if any obstruction is detected.
 - Enables the device to detect toxicants in low-light areas or underground mines. 
-- Displays real-time location on a 2.4” TFT LCD of the areas where harmful gases have been detected. 
+- Displays the real-time location on a 2.4” TFT LCD of the areas where harmful gases have been detected. 
 
 ---
 
