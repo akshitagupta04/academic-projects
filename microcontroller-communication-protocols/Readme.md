@@ -54,11 +54,11 @@ Documentation, including schematic capture and block diagram available in [Syste
 --- 
 
 ## Future Enhancement 
-- A low cost RFID scanner can be manufactured and used which can scan multiple tags simultaneously for faster processing and lesser resources.
-- It can be used in the ATM machines.
-- In malls for generating bills without standing in queue.
-- Automatic scanning & availability of products can be introduced.
-- The card can be used to store information such as medical, biological and pharmaceutical records. It simplifies the process and enables doctors to have access to a more complete and comprehensive healthcare information.
+- Develop a low-cost RFID scanner capable of scanning multiple passive RFID tags simultaneously for faster processing. 
+- Integrate the system into ATM machines for enhanced security and authentication.
+- Integrate the system into malls to generate bills without standing in queues.
+- Implement automatic scanning and real-time availability of products.
+- Enable storage of medical, biological, or pharmaceutical records on RFID cards for simplified access to comprehensive healthcare information.  
 
 --- 
 
