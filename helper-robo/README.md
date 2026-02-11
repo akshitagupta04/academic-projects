@@ -107,7 +107,7 @@ Other future enhancements include:
 
 ## Key Contributions 
 - Integrated the Arduino Uno R3 with L293D motor driver IC, DC gear motors, HC-05 Bluetooth module, MQ-7 & MQ-135 gas sensors and HC-SR04 ultrasonic sensor into a single, functional prototype.
-- Programmed gas sensors and an ultrasonic sensor with the Arduino Uno R3 to measure and output precise concentration (in ppm) and readings to the Arduino IDE Serial Monitor.
+- Programmed gas sensors and the ultrasonic sensor with the Arduino Uno R3 to measure and output precise concentration (in ppm) and readings to the Arduino IDE Serial Monitor.
 - Implemented wireless control for the DC gear motors via HC-05 Bluetooth module and smartphone app for controlling direction, movement and speed.
 - Documented the project comprehensively in a final report for academic evaluation.
 
