@@ -1,6 +1,6 @@
 # Microcontroller Communication Protocols 
 <p align="justify">
-An AVR-based RFID security access control system in which only authorised personnel are allowed access to a secure area, developed during embedded system design training. Using this system, authorization of personnel is carried out with an RFID card and only those with access can enter a secured area.
+An AVR-based RFID security access control system in which only authorised personnel are allowed access to a secure area, developed during embedded system design training. Using this system, authorization of personnel is carried out with a passive-type RFID card and only those with access can enter a secured area.
 </p>
 
 ## Table of Contents
@@ -24,6 +24,15 @@ This project was developed during the 8th semester of the undergraduate program 
 --- 
 
 ## Functional Description 
+- Prompts users to scan their passive-type RFID card via a “Show the card” message on the LCD screen when the system is powered ON. 
+- Scans the card when presented to the RFID reader and sends its unique identification number to the system. 
+- Verifies the scanned card by comparing it with authorised card data stored in the system's database.
+- Authenticates access when a valid card is detected by displaying the card holder’s name on the LCD screen. 
+- Activates the door control mechanism to open the door upon successful authentication for a predefined time duration. 
+- Re-locks the door automatically once the predefined time duration elapses.
+- Denies access when an unauthorised card is detected, displaying an “Access Denied” message on the LCD screen.
+- Prevents door operation for invalid or unrecognized RFID cards.
+- Sends an alert notification to the user via GSM in case of unauthorized access attempts. 
 
 --- 
 
