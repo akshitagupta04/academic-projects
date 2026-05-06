@@ -60,7 +60,7 @@ I have not submitted the matter presented in this report anywhere for the award 
 ---
 
 ## Hardware and Software 
-*Note: Do not connect the Arduino UNO R3 via USB 2.0 cable to the PC until the hardware circuit setup is complete.*
+> Note: Do not connect the Arduino UNO R3 via USB 2.0 cable to the PC until the hardware circuit setup is complete.
 ### Hardware 
 - Microcontroller: Arduino UNO R3
 - Sensors: MQ-7 CO gas sensor module, MQ-135 air quality sensor (detector) module, HC-SR04 ultrasonic sensor module, OV7670 camera sensor module
@@ -85,7 +85,7 @@ To demonstrate the working functionality of this 2020 academic project, I recent
 - **Sensor Verification:** Gas and ultrasonic sensor outputs
 - **Hardware Functionality:** Complete system operational check 
 
-*These 2026 validations confirm the functionality of the original 2020 design and implementation.* 
+> *These 2026 validations confirm the functionality of the original 2020 design and implementation.* 
 
 ---
 
