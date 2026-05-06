@@ -116,7 +116,7 @@ Other future enhancements include:
 ## Repository Structure 
 
 ```text
-helper-robo/
+/helper-robo/
 ├── codes
 │   ├── 80percent_main_combined
 │   │   └── 80percent_main_combined.ino                   # 80% main integrated code            
